@@ -1,4 +1,4 @@
 # calculator
 
 
-![image](https://github.com/user-attachments/assets/0553a0bc-9b10-433b-8aff-ed9e52efc743)
+![image](https://github.com/user-attachments/assets/6aae29f2-57c1-4b6d-9448-749510266b84)
