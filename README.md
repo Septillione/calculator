@@ -1,4 +1,4 @@
 # calculator
 
+![Снимок экрана 2025-05-24 191132](https://github.com/user-attachments/assets/d2e32a40-fde3-48fd-8382-ef109ec76e1f)
 
-![image](https://github.com/user-attachments/assets/6aae29f2-57c1-4b6d-9448-749510266b84)
